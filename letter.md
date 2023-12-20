@@ -24,8 +24,8 @@ fontfamily: mathpazo
 fontsize: 12pt
 geometry: margin=1in
 blockquote: true
-letterhead: example/letterhead.pdf
-signature: example/signature.pdf
+letterhead: letterhead.pdf
+signature: signature.pdf
 signature-before: -8ex
 signature-after: 0ex
 closing-indentation: 0pt
