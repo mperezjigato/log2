@@ -1,30 +1,3 @@
----
-author:
-- Manuel Perez Jigato
-opening: To whom it may concern,
-closing: Yours sincerely,
-date: 20 December 2023
-subject: Job application
-signature: Manuel Perez Jigato
-return-address: 
-- Gaston Eyskenslaan 25 bus 0201
-- 3010 Kessel-lo, Belgium
-encl:
-- research project
-- CV
-ps:
-  PS Attached you can find my portfolio, which I would be glad to discuss in person, during a prospective interview.
-fontfamily: mathpazo
-fontsize: 12pt
-geometry: margin=1in
-blockquote: true
-signature-before: -8ex
-signature-after: 0ex
-closing-indentation: 0pt
-links-as-notes: true
-colorlinks: true
----
-
 Dear Sir/Madam,
 
 I am writing in order to apply for the above position within your Organisation, world renowned in the sector. I am a surface scientist by training, with an experimental PhD and many years of experience in scientific research by means of first principles quantum mechanical calculations of solids, surfaces and nanostructures.
